@@ -22,5 +22,3 @@ This project is a responsive and modern **Job Application Form** built with HTML
 
 - HTML5
 - CSS (including Grid and media queries)
-## 📂 File Structure
-
